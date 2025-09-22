@@ -1,2 +1,2 @@
-# Ootput
+# Output
 devops
